@@ -29,7 +29,7 @@ function Navbar() {
 
           <div className="leading-tight">
             <h1 className="text-lg font-bold tracking-wide text-white sm:text-xl">
-              NECHOO'S WORLD
+              NECHOOS WORLD
             </h1>
 
             <p className="hidden text-[10px] font-medium uppercase tracking-[0.18em] text-amber-400 sm:block">
