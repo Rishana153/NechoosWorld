@@ -1,4 +1,4 @@
-import A3Image from '../assets/images/A2.jpeg';
+import A3Image from '../assets/images/about/A2.jpeg';
 function About() {
   return (
     <section
