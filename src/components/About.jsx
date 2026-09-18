@@ -15,7 +15,7 @@ function About() {
             <div className="overflow-hidden rounded-3xl border border-white/10 bg-zinc-900">
 
               <img
-                src="/src/assets/images/about/A2.jpeg"
+                src="/src/assets/images/about/A3.jpeg"
                 alt="Nechoo's World chip level service"
                 className="h-[400px] w-full object-cover sm:h-[500px]"
               />
