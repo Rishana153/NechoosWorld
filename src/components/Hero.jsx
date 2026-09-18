@@ -85,7 +85,7 @@ function Hero() {
                 </div>
 
                 <h2 className="text-2xl font-bold text-white">
-                  NECHOO'S WORLD
+                  NECHOOS WORLD
                 </h2>
 
                 <p className="mt-2 text-sm uppercase tracking-widest text-amber-400">
