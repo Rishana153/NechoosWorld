@@ -49,7 +49,7 @@ function About() {
             </h2>
 
             <p className="mt-6 leading-7 text-gray-400">
-              Nechoo's World provides specialized chip-level repair
+              Nechoos World provides specialized chip-level repair
               services for mobile phones and laptops.
             </p>
 
