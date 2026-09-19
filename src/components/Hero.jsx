@@ -48,7 +48,7 @@ function Hero() {
             </a>
             <a
               href="najeerriyadh@gmail.com"
-              className="inline-flex rounded-full bg-amber-400 px-6 py-3 font-semibold text-black transition hover:bg-amber-300">
+              className="inline-flex rounded-full bg-amber-400 px-6 py-3 text-center font-semibold text-black transition hover:bg-amber-300">
               Email Us
               </a>
 
