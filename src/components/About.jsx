@@ -91,6 +91,14 @@ function About() {
             >
               Contact Us
             </a>
+              <a
+              href="https://wa.me/919562830655"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="rounded-full border border-white/20 px-7 py-3.5 text-center font-semibold text-white transition-all duration-200 hover:border-amber-400 hover:text-amber-400"
+            >
+              WhatsApp Us
+            </a>
 
           </div>
 
